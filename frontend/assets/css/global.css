@@ -1,0 +1,45 @@
+.textWhite {
+  color: #fff !important;
+}
+.mediumText {
+  font-size: 21px;
+  font-weight: 600;
+}
+.userId {
+  border: 1px solid #ffa500;
+  border-radius: 35px;
+}
+.userId:hover {
+  background-color: #2597f5;
+  border: 1px solid #ebe9e9;
+}
+
+.signin {
+  text-align-last: center;
+  font-family: cursive;
+}
+
+.logo {
+  height: 2%;
+  width: 5%;
+}
+
+.bg-img {
+  background-image: url("https://static.vecteezy.com/system/resources/previews/001/409/192/original/abstract-geometric-banner-free-vector.jpg");
+  width: 100%;
+  height: 100%;
+}
+
+.heading {
+  padding-top: 60px;
+  text-align: center;
+  font-weight: 600;
+  margin: 1em 0 0.5em 0;
+  color: #343434;
+  font-weight: 900;
+  font-family: "Ultra", sans-serif;
+  font-size: 50px;
+  line-height: 42px;
+  text-transform: uppercase;
+  text-shadow: 0 3px white, 0 5px #777;
+}
